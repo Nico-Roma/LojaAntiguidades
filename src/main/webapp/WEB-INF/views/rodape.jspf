@@ -1,0 +1,9 @@
+<%@ page pageEncoding="UTF-8" %>
+</main>
+<footer class="rodape">
+	<div class="container">
+		<p>Antiquário Melodia · Sistema de gerenciamento do acervo · Projeto CRUD com Java, JSP, Tomcat e MariaDB</p>
+	</div>
+</footer>
+</body>
+</html>
